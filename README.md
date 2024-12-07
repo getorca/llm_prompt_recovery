@@ -1,6 +1,9 @@
 # LLM Prompt Recovery
 
-written for the kaggle competition [&#34;LLM Prompt recovery&#34;](https://www.kaggle.com/competitions/llm-prompt-recovery/overview).
+written for the kaggle competition [&#34;LLM Prompt recovery&#34;](https://www.kaggle.com/competitions/llm-prompt-recovery/overview).  It placed 73rd out of 2175 teams. The winniing teams ahd found an adversarial attack. 
+
+View Certificate
+
 
 > LLMs are commonly used to rewrite or make stylistic changes to text. The goal of this competition is to recover the LLM prompt that was used to transform a given text.
 
